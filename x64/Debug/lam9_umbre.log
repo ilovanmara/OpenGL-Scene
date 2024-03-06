@@ -1,0 +1,16 @@
+﻿  Camera.cpp
+  main.cpp
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(153,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(154,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(158,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(159,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(162,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(163,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(248,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(252,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(256,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(260,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(278,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(294,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  lam9_umbre.vcxproj -> C:\Users\mara_\Desktop\pg\lam9_umbre\x64\Debug\lam9_umbre.exe

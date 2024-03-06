@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(160,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(161,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(165,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(166,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(169,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(170,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(247,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(251,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(255,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(259,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(277,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(293,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mara_\Desktop\pg\lam9_umbre\lam9_umbre\main.cpp(551,28): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1796 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  lam9_umbre.vcxproj -> C:\Users\mara_\Desktop\pg\lam9_umbre\x64\Release\lam9_umbre.exe
